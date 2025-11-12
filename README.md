@@ -39,7 +39,7 @@ Teachers in low-resource schools spend **45–60 minutes** converting textbook p
 
 ## 🎥 Demo Video (90 seconds)
 
-https://github.com/user-attachments/assets/demo-placeholder.mp4
+https://github.com/user-attachments/assets/demo.mp4
 
 **What you'll see:**
 1. Teacher pastes Newton's Laws paragraph
@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/demo-placeholder.mp4
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourteam/locallearn.git
+git clone https://github.com/ObedienceAdara/locallearn.git
 cd locallearn
 
 # Install dependencies
@@ -333,16 +333,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - [ ] Non-profit pricing: Free for public schools
 
 **UN SDG Alignment:** Quality Education (SDG 4), Reduced Inequalities (SDG 10)
-
----
-
-## 👥 Team
-
-**[Your Name]** — Full-Stack Developer + AI Integration  
-**[Team Member 2]** — Frontend Engineer + UI/UX Designer  
-**[Team Member 3]** — QA Engineer + Analytics
-
-Built in 48 hours at [Hackathon Name] 2024.
 
 ---
 
